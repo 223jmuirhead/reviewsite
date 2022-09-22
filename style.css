@@ -5,7 +5,7 @@ html, body {
 
 h2 {
   text-align: center;
-  font-family: "Nunitosans", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
 }
 
 .big {
@@ -20,10 +20,7 @@ h2 {
 }
 
 .paper {
-  background-image: url("images/images/stil-sHGyGynyD5Y-unsplash.png");
-  background-size: cover;
-  background-position: center;
-  height: 100%;
+  width: 100%;
 }
 
 .centered {
@@ -31,7 +28,7 @@ h2 {
 }
 
 h1 {
-  font-family: "Nunitosans", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 p {
@@ -51,4 +48,124 @@ p {
 
 .blu {
   background: rgb(16, 201, 195);
+}
+
+.icon {
+  float: left;
+  display: block;
+}
+
+.supersized {
+  font-size: 50px;
+
+  
+}
+
+.box {
+  background-color: rgb(16, 201, 195) ;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.lemon {
+  background-image: url("images/images/lemon.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.powder {
+  background-image: url("images/images/power.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.coconut {
+  background-image: url("images/images/coconut.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.komaso {
+  background-image: url("images/images/komaso.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.olive {
+  background-image: url("images/images/olive.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.salad {
+  background-image: url("images/images/salad.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.seaweed {
+  background-image: url("images/images/seaweed.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.spice {
+  background-image: url("images/images/spice.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.lemon:hover {
+  filter: brightness(30%);
+}
+
+.powder:hover {
+  filter: brightness(30%);
+}
+
+.coconut:hover {
+  filter: brightness(30%);
+}
+
+.komaso:hover {
+  filter: brightness(30%);
+}
+
+.olive:hover {
+  filter: brightness(30%);
+}
+
+.salad:hover {
+  filter: brightness(30%);
+}
+
+.seaweed:hover {
+  filter: brightness(30%);
+}
+
+.spice:hover {
+  filter: brightness(30%);
+}
+
+.white {
+  color: white;
+}
+
+footer {
+  background-color: rgb(20, 20, 20);
+}
+
+.left {
+  text-align: left;
 }
